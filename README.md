@@ -8,4 +8,4 @@
 - After this course, i learned:  
   + how to make cutscene in Unity using Timeline  
   + control cutscene flow with timeline animation, active/unactive object with activation track, and group with track group  
-  + C=combining timeline with cinemachine to make cutscene
+  + combining timeline with cinemachine to make cutscene
